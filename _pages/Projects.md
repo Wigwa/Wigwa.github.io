@@ -1,5 +1,5 @@
 ---
-permalink: /project/
-title: "Project"
+permalink: /projects/
+title: "Projects"
 ---
 
