@@ -61,7 +61,7 @@ author:
   bio    : "Network and Cloud Security Analyst."
   links:
     - label: "LinkedIn"
-      icon: "<fa-brands fa-linkedin"
+      icon: "fa-brands fa-linkedin"
       url: "https://linkedin.com/in/lucy-wigwa-4b6580320"
     - #label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
@@ -76,7 +76,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "<fa-brands fa-linkedin"
+      icon: "fa-brands fa-linkedin"
       url: "https://linkedin.com/in/lucy-wigwa-4b6580320"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
