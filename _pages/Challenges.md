@@ -10,4 +10,5 @@ The most overwhelming challenge that I've encountered recently is the TryHackMe 
 ### The following are the assignments I had challenges with;
 
 [Assignment 2 HTB Academ1.pdf](https://github.com/user-attachments/files/20703295/Assignment.2.HTB.Academ1.pdf)
+
 [hhtps web request (Autosaved).pdf](https://github.com/user-attachments/files/20703303/hhtps.web.request.Autosaved.pdf)
